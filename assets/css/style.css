@@ -428,7 +428,7 @@ body {
   transition: var(--transition-1);
 }
 .hero-title{
-  color:#5b698e
+  color:#5b698e;
 }
 .navbar-link:is(:hover, :focus) { color: var(--mustard); }
 
