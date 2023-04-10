@@ -1052,7 +1052,7 @@ body {
   .feature-card {
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     gap: 25px;
   }
 
